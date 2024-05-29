@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+:root {
+    --font1:"Young Serif", serif;
+    --font2:"Outfit", sans-serif;
+}
+
+body{
+    background: url(./design/desktop-design.jpg) no-repeat ;
+    background-position: top center;
+    background-size: cover ;
+}
+
+img{
+    visibility: hidden;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
