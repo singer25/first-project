@@ -43,7 +43,7 @@ main {
     background: var(--White);
     margin: auto;
     padding: 2em;
-    outline: auto;
+    /* outline: auto; */
     border-radius: 2em;
     display: flex;
     flex-direction: column;
